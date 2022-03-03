@@ -1,0 +1,2 @@
+# Language_Translator_-_Predictor
+Seq2Seq LSTM AttentionModel_Translation_Prediction.ipynb
