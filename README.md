@@ -1,4 +1,4 @@
-# Language_Translator_Predictor
+# Language_Translation_ And_Prediction
 Seq2Seq LSTM AttentionModel_Translation_Prediction.ipynb
 
 
